@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  name: MyString
+  avaiable: false
+  start_time: 2023-10-03
+  student_number: 1
+
+two:
+  name: MyString
+  avaiable: false
+  start_time: 2023-10-03
+  student_number: 1
