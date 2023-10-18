@@ -1,2 +1,0 @@
-class ClassRoom < ApplicationRecord
-end
